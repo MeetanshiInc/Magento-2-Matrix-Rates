@@ -48,4 +48,4 @@ The value of attributes like losvcation, Item quantities, weight, etc. may vary 
 
 * Admin can use only one shipping type for the method.
 
-For more information, visit **[https://meetanshi.com/magento-2-matrix-rates.html](https://meetanshi.com/magento-2-matrix-rates.html)**
+For more information, visit ***[https://meetanshi.com/magento-2-matrix-rates.html](https://meetanshi.com/magento-2-matrix-rates.html)***
